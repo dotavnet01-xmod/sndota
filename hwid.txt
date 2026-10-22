@@ -1,1 +1,5 @@
-probe
+﻿# Dota 2 HWID Database
+# Format: HWID|EXPIRY_DATE (YYYY-MM-DD)
+# Jangan hapus baris yang diawali dengan #
+
+# Belum ada HWID terdaftar.
