@@ -2,4 +2,4 @@
 # Format: HWID|EXPIRY_DATE (YYYY-MM-DD)
 # Jangan hapus baris yang diawali dengan #
 
-# Belum ada HWID terdaftar.
+5BAC53BB8501ED54|2026-11-22
