@@ -1,6 +1,6 @@
 # Dota 2 HWID Database
 # Format: HWID|EXPIRY_DATE (YYYY-MM-DD)
-# PB-CB3E-7657-AD8D-8453|2026-12-31
+# 
 # Jangan hapus baris yang diawali dengan #
 
 # Belum ada HWID terdaftar.
